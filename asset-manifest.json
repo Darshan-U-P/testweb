@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Jeeva_traders/static/css/main.23d1ce1f.css",
+    "main.js": "/Jeeva_traders/static/js/main.46863056.js",
+    "static/js/488.909c7a72.chunk.js": "/Jeeva_traders/static/js/488.909c7a72.chunk.js",
+    "index.html": "/Jeeva_traders/index.html",
+    "main.23d1ce1f.css.map": "/Jeeva_traders/static/css/main.23d1ce1f.css.map",
+    "main.46863056.js.map": "/Jeeva_traders/static/js/main.46863056.js.map",
+    "488.909c7a72.chunk.js.map": "/Jeeva_traders/static/js/488.909c7a72.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23d1ce1f.css",
+    "static/js/main.46863056.js"
+  ]
+}
